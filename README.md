@@ -11,21 +11,24 @@ Evans PLC is experiencing an overall churn rate of **~26.9%** (1,796 churned cus
 ---
 ## Dataset Overview
 
-- **The dataset contains customer-level information including:
+- The dataset contains customer-level information including:
+- Contract type (Monthly, One-Year, Two-Year)
+- Account length (tenure in months)
+- Customer service call frequency
+- Monthly charges
+- Payment method
+- Demographic groups
+- Churn status (Yes/No)
 
-Contract type (Monthly, One-Year, Two-Year)
+  ## Tools & Skills Used
 
-Account length (tenure in months)
-
-Customer service call frequency
-
-Monthly charges
-
-Payment method
-
-Demographic groups
-
-Churn status (Yes/No)
+- Power BI
+- Power Query (data cleaning & transformation)
+- DAX (churn rate, averages, KPIs)
+- Interactive slicers and drill-downs
+- Data Visualization & Storytelling
+- Business & Customer Analytics
+- Exploratory Data Analysis (EDA)
 
 ## Most Critical Findings
 
@@ -98,10 +101,7 @@ This analysis represents a clear roadmap to meaningfully improve customer retent
 
 ## Contributing
 
-For questions or additional analysis requests, please contact the analytics team or open an issue in this repository.
+For questions or additional analysis requests, please contact calebajibola96@gmail.com
 
 ---
 
-## License
-
-[Specify your license here]
