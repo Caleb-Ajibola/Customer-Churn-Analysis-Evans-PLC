@@ -9,6 +9,23 @@
 Evans PLC is experiencing an overall churn rate of **~26.9%** (1,796 churned customers out of 6,687 total). The analysis reveals that churn is not random — it is strongly driven by specific, highly actionable customer segments, contract types, and competitive pressures.
 
 ---
+## Dataset Overview
+
+- **The dataset contains customer-level information including:
+
+Contract type (Monthly, One-Year, Two-Year)
+
+Account length (tenure in months)
+
+Customer service call frequency
+
+Monthly charges
+
+Payment method
+
+Demographic groups
+
+Churn status (Yes/No)
 
 ## Most Critical Findings
 
